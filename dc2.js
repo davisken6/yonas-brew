@@ -2,7 +2,6 @@ First name: <input id="first_name">
 Last name: <input id="last_name">
     <button id="enter">Enter</button>
 
-    <hr>
     <div id="result"></div>
 
     <script>
