@@ -1,4 +1,5 @@
-Are you at least 21 years of age?
+function userAge(){
+    Are you at least 21 years of age?
 
 
     <><button onclick="myFunction()">Yes</button><button onclick="myFunction()">No</button><script>
@@ -6,3 +7,6 @@ Are you at least 21 years of age?
         }
 
     </script></>
+
+}
+userAge();
