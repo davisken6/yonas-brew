@@ -6,8 +6,17 @@ function userAge(){
         alert ("Check out Disney.com");
     }
 
-
-  
-
 }
-userAge();
+
+
+function userName(){
+    let userName = prompt ("What is your name?");
+    document.write("Welcome " + userName)
+}
+
+function userEmail(){
+    let userEmail = prompt ('Enter your email to sign up for our News Letter:');
+     document.write('<h3>' + userEmail + '</h3>')
+}
+
+
